@@ -19,7 +19,8 @@
         <activity android:name=".ProfileActivity" />
         <activity android:name=".ReportActivity" />
         <activity android:name=".ScoreActivity" />
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".IthsActivity" />
+        <activity android:name=".customviews.LoginActivity"></activity>
     </application>
 
 </manifest>

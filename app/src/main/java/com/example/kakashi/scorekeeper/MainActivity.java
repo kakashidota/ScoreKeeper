@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+import com.example.kakashi.scorekeeper.customviews.LoginActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -35,6 +37,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void lesson(View view){
+        Intent myIntent = new Intent(getApplicationContext(), IthsActivity.class);
+        startActivity(myIntent);
+    }
+
+    public void loginBtn(View view){
         Intent myIntent = new Intent(getApplicationContext(), LoginActivity.class);
         startActivity(myIntent);
     }
