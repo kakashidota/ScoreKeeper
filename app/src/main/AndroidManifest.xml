@@ -21,7 +21,9 @@
         <activity android:name=".ScoreActivity" />
         <activity android:name=".IthsActivity" />
         <activity android:name=".customviews.LoginActivity" />
-        <activity android:name=".registerActivity"></activity>
+        <activity android:name=".registerActivity" />
+        <activity android:name=".IthsFirstActivity" />
+        <activity android:name=".ithsSecondActivity"></activity>
     </application>
 
 </manifest>

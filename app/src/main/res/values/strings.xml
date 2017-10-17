@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ScoreKeeper</string>
+    <string name="sendtext">Send</string>
+    <string name="message_recieved">Message recieved:</string>
 </resources>
