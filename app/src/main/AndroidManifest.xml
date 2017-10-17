@@ -20,7 +20,8 @@
         <activity android:name=".ReportActivity" />
         <activity android:name=".ScoreActivity" />
         <activity android:name=".IthsActivity" />
-        <activity android:name=".customviews.LoginActivity"></activity>
+        <activity android:name=".customviews.LoginActivity" />
+        <activity android:name=".registerActivity"></activity>
     </application>
 
 </manifest>
