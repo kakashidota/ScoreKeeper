@@ -5,8 +5,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.example.kakashi.scorekeeper.customviews.LoginActivity;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -16,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         if (savedInstanceState != null){
             //savedInstanceState.getString("TextViewText");
-
 
         }
     }

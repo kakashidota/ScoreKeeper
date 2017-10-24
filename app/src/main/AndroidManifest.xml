@@ -9,22 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity" />
+        <activity android:name=".MainActivity"/>
         <activity android:name=".ProfileActivity" />
         <activity android:name=".ReportActivity" />
         <activity android:name=".ScoreActivity" />
         <activity android:name=".IthsActivity" />
-        <activity android:name=".customviews.LoginActivity" />
-        <activity android:name=".registerActivity" />
-        <activity android:name=".IthsFirstActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".LoginActivity">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <category android:name="android.intent.category.LAUNCHER" />
+
+        </intent-filter>
         </activity>
+        <activity android:name=".registerActivity" />
+        <activity android:name=".IthsFirstActivity"/>
         <activity android:name=".ithsSecondActivity" />
         <activity android:name=".test" />
+
         <activity android:name=".EditActivity"></activity>
     </application>
 

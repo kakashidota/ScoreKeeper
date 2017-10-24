@@ -3,4 +3,5 @@
     <string name="sendtext">Send</string>
     <string name="message_recieved">Message recieved:</string>
     <string name="intent_msg">Message to next activity</string>
+    <string name="editBtn">Edit</string>
 </resources>

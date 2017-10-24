@@ -57,7 +57,7 @@
         android:layout_width="360dp"
         android:layout_height="33dp"
         android:fontFamily="serif-monospace"
-        android:text="Name:"
+        android:text="Name: TODO"
         android:textAllCaps="false"
         android:textSize="25sp"
         android:textStyle="bold"

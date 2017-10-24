@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradientback2"
-    tools:context="com.example.kakashi.scorekeeper.customviews.LoginActivity">
+    tools:context="com.example.kakashi.scorekeeper.LoginActivity">
 
     <EditText
         android:id="@+id/userNameView"
