@@ -9,5 +9,13 @@ public class TestActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test2);
+        //Comment
+        int i = 2;
+        testMetod(i);
+    }
+
+    private void testMetod(int k)
+    {
+
     }
 }
