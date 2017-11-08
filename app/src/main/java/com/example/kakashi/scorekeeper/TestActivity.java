@@ -24,6 +24,10 @@ public class TestActivity extends AppCompatActivity {
 
 
     private void hejhejhej(View view){
-        
+        //kod här etc
+        String name = "Robin";
+        String fruit = "banan";
+        String role = "ninja";
+        String conclusion = "RObin is a bananan ninja!";
     }
 }
