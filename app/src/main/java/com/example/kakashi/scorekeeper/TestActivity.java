@@ -9,6 +9,8 @@ public class TestActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test2);
+        String name = "whatsup";
+
         //Comment
         int i = 2;
         testMetod(i);
