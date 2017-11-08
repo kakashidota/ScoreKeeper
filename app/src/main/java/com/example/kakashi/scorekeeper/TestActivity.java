@@ -1,7 +1,8 @@
 package com.example.kakashi.scorekeeper;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
 
 public class TestActivity extends AppCompatActivity {
 
@@ -19,5 +20,10 @@ public class TestActivity extends AppCompatActivity {
     private void testMetod(int k)
     {
 
+    }
+
+
+    private void hejhejhej(View view){
+        
     }
 }
